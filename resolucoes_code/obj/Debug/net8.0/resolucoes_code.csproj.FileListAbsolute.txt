@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Projetos\c#-estudos\resolvendo-codigos-formacao-github-dio\resolucoes_code\bin\Debug\net8.0\resolucoes_code.exe
+C:\Users\Administrator\Documents\Projetos\c#-estudos\resolvendo-codigos-formacao-github-dio\resolucoes_code\bin\Debug\net8.0\resolucoes_code.deps.json
+C:\Users\Administrator\Documents\Projetos\c#-estudos\resolvendo-codigos-formacao-github-dio\resolucoes_code\bin\Debug\net8.0\resolucoes_code.runtimeconfig.json
+C:\Users\Administrator\Documents\Projetos\c#-estudos\resolvendo-codigos-formacao-github-dio\resolucoes_code\bin\Debug\net8.0\resolucoes_code.dll
+C:\Users\Administrator\Documents\Projetos\c#-estudos\resolvendo-codigos-formacao-github-dio\resolucoes_code\bin\Debug\net8.0\resolucoes_code.pdb
+C:\Users\Administrator\Documents\Projetos\c#-estudos\resolvendo-codigos-formacao-github-dio\resolucoes_code\obj\Debug\net8.0\resolucoes_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Projetos\c#-estudos\resolvendo-codigos-formacao-github-dio\resolucoes_code\obj\Debug\net8.0\resolucoes_code.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Projetos\c#-estudos\resolvendo-codigos-formacao-github-dio\resolucoes_code\obj\Debug\net8.0\resolucoes_code.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Projetos\c#-estudos\resolvendo-codigos-formacao-github-dio\resolucoes_code\obj\Debug\net8.0\resolucoes_code.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Projetos\c#-estudos\resolvendo-codigos-formacao-github-dio\resolucoes_code\obj\Debug\net8.0\resolucoes_code.sourcelink.json
+C:\Users\Administrator\Documents\Projetos\c#-estudos\resolvendo-codigos-formacao-github-dio\resolucoes_code\obj\Debug\net8.0\resolucoes_code.dll
+C:\Users\Administrator\Documents\Projetos\c#-estudos\resolvendo-codigos-formacao-github-dio\resolucoes_code\obj\Debug\net8.0\refint\resolucoes_code.dll
+C:\Users\Administrator\Documents\Projetos\c#-estudos\resolvendo-codigos-formacao-github-dio\resolucoes_code\obj\Debug\net8.0\resolucoes_code.pdb
+C:\Users\Administrator\Documents\Projetos\c#-estudos\resolvendo-codigos-formacao-github-dio\resolucoes_code\obj\Debug\net8.0\resolucoes_code.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Projetos\c#-estudos\resolvendo-codigos-formacao-github-dio\resolucoes_code\obj\Debug\net8.0\ref\resolucoes_code.dll
